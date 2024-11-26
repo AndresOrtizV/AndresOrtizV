@@ -1,22 +1,14 @@
 <div aling="center">
-<h1 aling="center">¡¡¡HOLAAA!!!</h1>
-  
+<h1 aling="center">¡¡¡HOLAAA!!!</h1>  
 </div>
+<img src="https://imgur.com/a/i5xJ8SH" alt="Imagen de Perfil">
+
+### Sobre mí
+-📚Estudiante de Ingenieria Civil
+-🖥️ Aprendiendo Python
+-🎯 Mis metas son Graduarme de la U
 
 
-
-
-<!--
-**AndresOrtizV/AndresOrtizV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecmologias
+- 🗺️| Revit
+- ⚙️| Onshape
