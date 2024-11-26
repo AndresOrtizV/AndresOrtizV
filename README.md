@@ -1,7 +1,6 @@
 <div aling="center">
-<h1 aling="center>¡¡¡HOLAAA!!! Soy Andrés Ortiz 🦅 </h1>
+<h1 aling="center">¡¡¡HOLAAA!!!</h1>
 </div>
-
 
 
 
